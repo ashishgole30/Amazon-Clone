@@ -25,11 +25,11 @@ This project is for learning and practicing front-end web development.
 </p>
 
 📝 Project Structure
-
-
+```
 Amazon-Clone/
 │
 ├── index.html # Main page
 ├── styles.css # CSS styles
 ├── images/ # Product images
 └── README.md # Project info
+```
